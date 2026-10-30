@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@utility container {
+  max-width: 1150px;
+  margin-inline: auto;
+}
+
+
+@theme {
+  --font-inter: "Inter", sans-serif; 
+  --font-poppins: "Poppins", sans-serif; 
+}
+
+@theme {
+  --drop-shadow-my: 0px 40px 25px rgba(152, 178, 240, 0.5); 
+}
